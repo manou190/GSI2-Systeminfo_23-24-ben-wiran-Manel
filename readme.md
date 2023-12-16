@@ -6,4 +6,4 @@
 
 **prof m rayes**
 
-dans le cadre de notre formation (GSI) https://www.cidj.com/metiers/web-designer
+dans le cadre de notre formation (GSI) https://manou190.github.io/GSI-infodesign-ben-wiran-Bessioud-jihene/
